@@ -9,6 +9,9 @@ public class Preguica extends Animal {
 		super();
 	}
 
+	public String emitirSom() {
+		return "AAAAAAAAAAAAAAAA";
+	}
 	public String subirArvore() {
 		return "Preguiça começou subir na árvore.";
 	}

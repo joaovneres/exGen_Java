@@ -9,6 +9,9 @@ public class Cavalo extends Animal {
 		super();
 	}
 
+	public String emitirSom() {
+		return "Irrirri";
+	}
 	public String cGalopar() {
 		return "Cavalo começou galopar.";
 	}
